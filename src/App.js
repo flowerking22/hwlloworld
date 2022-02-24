@@ -7,6 +7,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>My First hwlloworrld </h1>
         <h3>React App Deploy in github</h3>
+        <h3>First commit in github</h3>
       </header>
     </div>
   );
